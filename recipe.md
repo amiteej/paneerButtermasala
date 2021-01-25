@@ -9,6 +9,10 @@ You will have to do some prep work before you begin making this delicious recipe
 2. When the cashews are soaking, you can prep the other ingredients like chopping tomatoes, chopping and preparing the ginger-garlic paste, slicing paneer etc.
 3. Crush 1-inch ginger + 3 to 4 medium-sized garlic to a paste in a mortar pestle to a semi-fine or fine paste. Keep aside. Don’t add any water while crushing ginger & garlic. 
 
+
+
+
+
 [<img src="images/pbm-21.jpg" width="200" alt="Paneer Butter Masala"> ](images/pbm-21.jpg )
 
 4. After 20 to 30 minutes, drain the water and add the soaked cashews in a blender or mixer-grinder. Also, add 2 to 3 tablespoons fresh water or as required.
