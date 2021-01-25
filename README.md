@@ -5,4 +5,4 @@
 * [Ingredients](ingredients.md)
 * [Recipe](recipe.md)
 
-[<img src="images/pbm-1.jpg" width="200" alt="Puneer Butter Masala"> ](images/pbm-1.jpg )
+[<img src="images/pbm-1.jpg" width="200" alt="Paneer Butter Masala"> ](images/pbm-1.jpg )
