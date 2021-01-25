@@ -4,3 +4,5 @@
 
 * [Ingredients](ingredients.md)
 * [Recipe](recipe.md)
+
+(/images/pbm-1.jpg)

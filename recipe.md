@@ -13,5 +13,7 @@ You will have to do some prep work before you begin making this delicious recipe
 6. Stir gently but well and switch off the heat.
 7. Serve Paneer Butter Masala hot garnished with 1 to 2 tablespoons of chopped coriander leaves (cilantro) and the remaining ginger julienne. You can also drizzle some cream or dot with butter while serving.
 
+(images/pbm-2.jpg)
+
 
 [Back](README.md)
