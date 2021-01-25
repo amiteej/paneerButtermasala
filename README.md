@@ -5,4 +5,4 @@
 * [Ingredients](ingredients.md)
 * [Recipe](recipe.md)
 
-![Paneer Butter Masala](images/pbm-1.jpg =250x10)
+[<ima src = "images/pbm-1.jpg" width="200" alt="Puneer butter masala" ](images/pbm-1.jpg )
