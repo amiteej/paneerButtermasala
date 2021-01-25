@@ -5,4 +5,4 @@
 * [Ingredients](ingredients.md)
 * [Recipe](recipe.md)
 
-![Paneer Butter Masala](images/pbm-1.jpg)
+![Paneer Butter Masala](images/pbm-1.jpg =250x)
